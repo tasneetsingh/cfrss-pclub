@@ -1,4 +1,4 @@
-module github.com/bmerchant22/project
+module github.com/tasneetsingh/cfrss-pclub
 
 go 1.20
 
