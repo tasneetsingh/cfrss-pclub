@@ -1,8 +1,8 @@
 package web
 
 import (
-	"github.com/bmerchant22/project/pkg/models"
-	"github.com/bmerchant22/project/pkg/store"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/models"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/store"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/zap"
 	"net/http"
