@@ -1,7 +1,7 @@
 package web
 
 import (
-	"github.com/bmerchant22/project/pkg/store"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/store"
 	"github.com/labstack/echo/v4"
 )
 
