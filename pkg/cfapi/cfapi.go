@@ -3,7 +3,7 @@ package cfapi
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bmerchant22/project/pkg/models"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/models"
 	"go.uber.org/zap"
 	"io"
 	"net/http"
