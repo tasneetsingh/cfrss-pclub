@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/bmerchant22/project/pkg/store"
-	"github.com/bmerchant22/project/pkg/web"
-	"github.com/bmerchant22/project/pkg/worker"
+	"github.com/tasneetsingh/project/pkg/store"
+	"github.com/tasneetsingh/project/pkg/web"
+	"github.com/tasneetsingh/project/pkg/worker"
 	"go.uber.org/zap"
 	"log"
 	"sync"
