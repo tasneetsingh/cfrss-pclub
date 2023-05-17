@@ -2,9 +2,9 @@ package worker
 
 import (
 	"fmt"
-	"github.com/bmerchant22/project/pkg/cfapi"
-	"github.com/bmerchant22/project/pkg/models"
-	"github.com/bmerchant22/project/pkg/store"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/cfapi"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/models"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/store"
 	"go.uber.org/zap"
 	"time"
 )
