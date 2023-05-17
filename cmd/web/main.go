@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/tasneetsingh/project/pkg/store"
-	"github.com/tasneetsingh/project/pkg/web"
-	"github.com/tasneetsingh/project/pkg/worker"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/store"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/web"
+	"github.com/tasneetsingh/cfrss-pclub/pkg/worker"
 	"go.uber.org/zap"
 	"log"
 	"sync"
